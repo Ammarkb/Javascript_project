@@ -1,4 +1,4 @@
-# analogue clock
+# Javascript_project # analogue clock
 
-An analogue clock that uses JavaScript and the Canvas Web API
-# Javascript_project
+An analogue clock that uses JavaScript.
+
