@@ -14,7 +14,7 @@ setInterval(drawClock, 1000); //run the drawClock function every second.
 function drawClock(){
     drawFace(ctx, radius);
     drawNumbers(ctx, radius);
-    drawTime(ctx, radius);
+    drawTime(ctx, radius);     
 }
 
 function drawFace(ctx, radius){
