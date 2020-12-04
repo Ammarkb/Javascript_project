@@ -1,4 +1,4 @@
-
+     
 // select elements
 const eyes = document.querySelector(".eyes");
 const head = document.querySelector(".head");
